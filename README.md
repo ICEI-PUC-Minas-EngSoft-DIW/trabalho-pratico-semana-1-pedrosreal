@@ -2,17 +2,18 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Pedro Henrique
+Matricula: 904068
 
 ## Tela de inspeção com navegador
 
 `<Coloque aqui o print da tela de inspeção do seu navegador>`
+![Inspeção](images/request.png)
 
 ## Tela de projeto no Replit
 
 `<Coloque aqui o print da tela do projeto no Replit>`
-
+![Replit](images/hello.world.png)
 
 ## Orientações sobre Linguagem MarkDown
 
